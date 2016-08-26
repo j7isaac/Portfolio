@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:700);
 @import url(https://fonts.googleapis.com/css?family=Lato:300);
+@import url("../bootstrap/css/bootstrap.min.css");
 
 a {
   text-decoration: none;
